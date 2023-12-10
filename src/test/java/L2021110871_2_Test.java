@@ -19,7 +19,7 @@ public class L2021110871_2_Test {
     public void testRemoveDuplicateLettersBasic() {
         Solution2 solution = new Solution2();
         String input = "bcabc";
-        String expected = "abc";
+        String expected = "abcFalse";
         String result = solution.removeDuplicateLetters(input);
         assertEquals(expected, result);
     }
