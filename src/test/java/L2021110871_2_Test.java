@@ -2,7 +2,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 /**
- * L学号_X_Test.java
+ * L2021110871_2_Test.java
  *
  * Testing principles:
  * - Equivalence class partitioning: Identify different classes of input that should be tested together.
